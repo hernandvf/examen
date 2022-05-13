@@ -1,0 +1,112 @@
+===========
+ Sumatorio
+===========
+ 1) Agregar valor
+ 2) Mostrar valores
+ 3) Mostrar suma
+ 4) Restablecer
+ 5) SALIR
+> Introduzca la opción elegida: 2
+
+Lista de sumandos
+-----------------
+
+
+===========
+ Sumatorio
+===========
+ 1) Agregar valor
+ 2) Mostrar valores
+ 3) Mostrar suma
+ 4) Restablecer
+ 5) SALIR
+> Introduzca la opción elegida: 1
+
+Agregar valor
+-------------
+> Introduzca un nuevo valor: 34
+ → Se ha agregado un valor
+
+===========
+ Sumatorio
+===========
+ 1) Agregar valor
+ 2) Mostrar valores
+ 3) Mostrar suma
+ 4) Restablecer
+ 5) SALIR
+> Introduzca la opción elegida: 1
+
+Agregar valor
+-------------
+> Introduzca un nuevo valor: dos
+ → Valor no aceptable: java.lang.NumberFormatException: For input string: "dos"
+> Introduzca un nuevo valor: 2.24
+ → Se ha agregado un valor
+
+===========
+ Sumatorio
+===========
+ 1) Agregar valor
+ 2) Mostrar valores
+ 3) Mostrar suma
+ 4) Restablecer
+ 5) SALIR
+> Introduzca la opción elegida: 2
+
+Lista de sumandos
+-----------------
+    000 →  34,0000
+    001 →  2,2400
+
+
+===========
+ Sumatorio
+===========
+ 1) Agregar valor
+ 2) Mostrar valores
+ 3) Mostrar suma
+ 4) Restablecer
+ 5) SALIR
+> Introduzca la opción elegida: 3
+     34,0000
+ +    2,2400
+------------
+     36,2400
+
+ → Pulsar «Intro» para continuar…
+
+===========
+ Sumatorio
+===========
+ 1) Agregar valor
+ 2) Mostrar valores
+ 3) Mostrar suma
+ 4) Restablecer
+ 5) SALIR
+> Introduzca la opción elegida: 4
+
+  Hay 0 sumandos
+   → Lista restablecida
+
+===========
+ Sumatorio
+===========
+ 1) Agregar valor
+ 2) Mostrar valores
+ 3) Mostrar suma
+ 4) Restablecer
+ 5) SALIR
+> Introduzca la opción elegida: 3
+ → No tiene sentido una suma sin sumandos…
+
+===========
+ Sumatorio
+===========
+ 1) Agregar valor
+ 2) Mostrar valores
+ 3) Mostrar suma
+ 4) Restablecer
+ 5) SALIR
+> Introduzca la opción elegida: 5
+ → ¡¡¡A-D-I-O-S!!
